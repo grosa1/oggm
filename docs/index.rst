@@ -31,8 +31,6 @@ ideal tool for a wide range of applications in glaciology and related fields.
 OGGM project and related news, visit** `oggm.org <http://oggm.org>`_.
 
 
-.. include:: _generated/version_text.txt
-
 Video presentation
 ^^^^^^^^^^^^^^^^^^
 
